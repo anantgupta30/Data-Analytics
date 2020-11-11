@@ -6,3 +6,4 @@ Python modules used:-
    2. Matplotlib.pyplot
    3. Seaborn
    4. time
+   5. Numpy
